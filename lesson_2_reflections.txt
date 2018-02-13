@@ -8,11 +8,15 @@ it offers efficeincy in controling versions
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Staging area will show files that you change which are not committed yet or you can reset the file that you changed if you don't want to commit it
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+If you want another version or experiment of your program you should create branch as to not touch/edit the original version. it would 
+be helpful to use branch since it would separate the changes from another version.
 
 How do the diagrams help you visualize the branch structure?
+it helps me trace the branches of my repository
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
