@@ -18,8 +18,9 @@ be helpful to use branch since it would separate the changes from another versio
 How do the diagrams help you visualize the branch structure?
 it helps me trace the branches of my repository
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together will apply all the new feauture or fix bug from another branch. The diagram will present it more clearly 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
